@@ -1,4 +1,4 @@
-module paypalSDK-golang
+module github.com/thathappiness/paypalSDK-golang
 
 go 1.14
 
